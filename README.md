@@ -32,4 +32,4 @@ npm run dev
 ```
 
 Alternatively, you could use the link: *https://foodies-frontend-neon.vercel.app/*
-(The individual repositories fro `foodies_backend` and `foodies_frontend` are *github.com/Rakagami/foodies_backend*, *github.com/mpospelova/foodies_frontend*)
+(The individual repositories fro `foodies_backend` and `foodies_frontend` are *https://github.com/Rakagami/foodies_backend*, *https://github.com/mpospelova/foodies_frontend*)
