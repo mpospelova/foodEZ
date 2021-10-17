@@ -1,0 +1,39 @@
+.input_form {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+.input_form-camera-icon {
+  margin-left: 10px;
+  cursor: pointer;
+}
+.input_form-first-row {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.name_input {
+  border-radius: 7px;
+  border: 1px solid #ccc;
+  width: 80%;
+  height: 3em;
+  font-size: medium;
+  /* margin-bottom: 1em; */
+  /* margin-right: 10px; */
+}
+
+.quantity_input {
+  border-radius: 7px;
+  border: 1px solid #ccc;
+  width: 25%;
+  height: 3em;
+  font-size: medium;
+  margin-right: 10px;
+}
+
+.unit_input {
+  width: 25%;
+  height: 3em;
+  font-size: medium;
+}

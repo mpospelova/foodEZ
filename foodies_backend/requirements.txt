@@ -1,0 +1,5 @@
+Flask==2.0.2
+requests==2.26.0
+jsonify==0.5
+Flask-Cors==3.0.10
+Pandas==1.3.3

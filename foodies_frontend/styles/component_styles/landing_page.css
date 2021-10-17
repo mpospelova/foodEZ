@@ -1,0 +1,19 @@
+.landing_page {
+}
+
+.landing_page_toinput_btn {
+  border-radius: 50%;
+  position: fixed;
+  right: 0%;
+  transform: translate(-50%, -50%);
+  bottom: 0px;
+  height: 70px;
+  width: 70px;
+  background: #e0c097;
+  color: white;
+  border: none;
+  text-align: center;
+  font-size: 30px;
+  cursor: pointer;
+  font-weight: 200;
+}

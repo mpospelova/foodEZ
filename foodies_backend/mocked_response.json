@@ -1,0 +1,158 @@
+{
+  "recipeList": [
+    {
+      "recipe_id": 7000,
+      "name": "Golden Crescent Rolls Recipe",
+      "prep_time": 25,
+      "cook_time": 15,
+      "ready_time": 190,
+      "ingredients": [
+        "yeast",
+        "water",
+        "white sugar",
+        "salt",
+        "egg",
+        "butter",
+        "flour",
+        "butter"
+      ],
+      "directions": "Dissolve yeast in warm water.**Stir in sugar, salt, eggs, butter, and 2 cups of flour. Beat until smooth. Mix in remaining flour until smooth. Scrape dough from side of bowl. Knead dough, then cover it and let rise in a warm place until double (about 1 1/2 hours).**Punch down dough. Divide in half. Roll each half into a 12-inch circle. Spread with butter. Cut into 10 to 15 wedge. Roll up the wedges starting with the wide end. Place rolls with point under on a greased baking sheet. Cover and let rise until double (about 1 hour).**Bake at 400 degrees F (205 degrees C) for 12-15 minute or until golden brown. Brush tops with butter when they come out of the oven.**",
+      "url": "https://www.allrecipes.com/recipe/7000",
+      "photo_url": "https://images.media-allrecipes.com/userphotos/560x315/4465807.jpg"
+    },
+    {
+      "recipe_id": 7001,
+      "name": "Poppy Seed Bread with Glaze Recipe",
+      "prep_time": 15,
+      "cook_time": 60,
+      "ready_time": 80,
+      "ingredients": [
+        "flour",
+        "salt",
+        "baking powder",
+        "poppy",
+        "butter",
+        "vegetable oil",
+        "egg",
+        "milk",
+        "white sugar",
+        "vanilla",
+        "almond",
+        "orange juice",
+        "butter",
+        "almond",
+        "vanilla",
+        "sugar"
+      ],
+      "directions": "'Preheat oven to 350 degrees F (175 degrees C). Grease bottoms of two 9-inch loaf pans.**Mix together flour, salt, baking powder, poppy seeds, butter flavoring, oil, eggs, milk, sugar, vanilla, and almond flavoring. Pour into prepared pans.**Bake at 350 degrees F (175 degrees C) for one hour. Cool 5 minutes. Poke holes in top of loaves and pour glaze over.**To make glaze: Mix orange juice, 1/2 teaspoon butter flavoring, 1/2 teaspoon almond flavoring, and 1 teaspoon vanilla. Add enough confectioners'' sugar to make glaze.**'",
+      "url": "https://www.allrecipes.com/recipe/7001",
+      "photo_url": "https://images.media-allrecipes.com/userphotos/560x315/34726.jpg"
+    },
+    {
+      "recipe_id": 7003,
+      "name": "Applesauce Bread I Recipe",
+      "prep_time": 10,
+      "cook_time": 80,
+      "ready_time": 90,
+      "ingredients": [
+        "flour",
+        "egg",
+        "white sugar",
+        "vegetable oil",
+        "applesauce",
+        "raisin",
+        "cinnamon",
+        "baking soda",
+        "baking powder",
+        "sour cream"
+      ],
+      "directions": "Preheat oven to 350 degrees F (175 degrees C).  Grease and flour two 9 x 5 inch loaf pans.**Beat together eggs, sugar, and oil.  Blend in applesauce, and then sour cream or buttermilk.  Mix in flour, baking powder, soda, and cinnamon. Stir in raisins. Pour batter into prepared pans.**Bake for 80 minutes.  Cool on wire racks.**",
+      "url": "https://www.allrecipes.com/recipe/7003",
+      "photo_url": "https://images.media-allrecipes.com/userphotos/560x315/1024884.jpg"
+    },
+    {
+      "recipe_id": 7006,
+      "name": "Apple Raisin Bread Recipe",
+      "prep_time": 15,
+      "cook_time": 60,
+      "ready_time": 75,
+      "ingredients": [
+        "flour",
+        "baking powder",
+        "baking soda",
+        "salt",
+        "cinnamon",
+        "nutmeg",
+        "brown sugar",
+        "oat",
+        "apple",
+        "walnut",
+        "raisin",
+        "egg",
+        "milk",
+        "vegetable oil"
+      ],
+      "directions": "Preheat oven to 350 degrees F (175 degrees C).  Grease and flour an 8 1/2 x 4 1/2 inch loaf pan.**In a large bowl, combine flour, baking powder, baking soda, salt, cinnamon, nutmeg, brown sugar, and  oats.  Add apple, nuts, raisins, eggs, milk, and oil.  Mix until dry ingredients are moistened.**Bake for 55 to 60 minutes, or until done.  Cool on wire rack.**",
+      "url": "https://www.allrecipes.com/recipe/7006",
+      "photo_url": "https://images.media-allrecipes.com/userphotos/560x315/21563.jpg"
+    }
+  ],
+  "shoppingList": [
+    [
+      "yeast",
+      "water",
+      "white sugar",
+      "salt",
+      "egg",
+      "butter",
+      "flour",
+      "butter"
+    ],
+    [
+      "flour",
+      "salt",
+      "baking powder",
+      "poppy",
+      "butter",
+      "vegetable oil",
+      "egg",
+      "milk",
+      "white sugar",
+      "vanilla",
+      "almond",
+      "orange juice",
+      "butter",
+      "almond",
+      "vanilla",
+      "sugar"
+    ],
+    [
+      "flour",
+      "egg",
+      "white sugar",
+      "vegetable oil",
+      "applesauce",
+      "raisin",
+      "cinnamon",
+      "baking soda",
+      "baking powder",
+      "sour cream"
+    ],
+    [
+      "flour",
+      "baking powder",
+      "baking soda",
+      "salt",
+      "cinnamon",
+      "nutmeg",
+      "brown sugar",
+      "oat",
+      "apple",
+      "walnut",
+      "raisin",
+      "egg",
+      "milk",
+      "vegetable oil"
+    ]
+  ]
+}

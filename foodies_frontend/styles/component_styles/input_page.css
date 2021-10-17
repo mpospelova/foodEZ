@@ -1,0 +1,109 @@
+.input_box {
+  width: 100vw;
+  background-image: linear-gradient(
+    to top,
+    #cee5d0,
+    #cedec0,
+    #d2d5af,
+    #d8cba1,
+    #e0c097
+  );
+  position: relative;
+  /* top: 0; */
+  padding-bottom: 30px;
+  border-radius: 0 0 40px 40px;
+}
+.input_page_title {
+  text-align: center;
+  color: white;
+  font-size: 3em;
+  font-weight: 800;
+  text-shadow: 2px 2px #e0c097;
+  font-family: "Pacifico", cursive;
+  padding: 10px;
+  margin: 0;
+}
+
+.input_button {
+  border-radius: 25px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  position: absolute;
+  right: 20px;
+  bottom: 0px;
+  transform: translateY(50%);
+  height: 50px;
+  width: 30%;
+  background: #e0c097;
+  color: white;
+  border: none;
+  text-align: center;
+  font-size: 2.5em;
+  font-weight: 200;
+  line-height: 1em;
+  cursor: pointer;
+}
+
+.input_button:hover {
+  background-color: #a78c68;
+}
+
+.submit_button {
+  width: 80%;
+  background: #ff7878;
+  color: white;
+  border: none;
+  text-align: center;
+  font-size: large;
+  position: fixed;
+  bottom: 10px;
+  height: 50px;
+  cursor: pointer;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  border-radius: 2em;
+  padding: 0.3em 1.2em;
+  margin: 0 0.3em 0.3em 0;
+  box-sizing: border-box;
+  transition: all 0.2s;
+}
+
+.submit_button:hover {
+  background-color: #a33838;
+}
+
+.food_card_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  top: 300px;
+  width: 100%;
+}
+
+.input_page_image_container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 100vw;
+  transform: translate(-50%, -50%);
+  z-index: -1;
+}
+
+.input_page_image_container > img {
+  width: 100%;
+  height: auto;
+  display: block;
+  opacity: 0.6;
+}
+
+.input_page_motivational_text {
+  position: fixed;
+  width: 100%;
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  transform: translate(0%, 30%);
+  bottom: 200px;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "tum.ai Project - Foodies Team Backend",
+  "description": "A barebones backend for the MVP of the Foodies team",
+  "image": "heroku/python",
+  "repository": "https://github.com/Rakagami/foodies_backend",
+  "keywords": ["python", "flask" ]
+}

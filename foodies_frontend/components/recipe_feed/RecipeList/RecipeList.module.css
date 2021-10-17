@@ -1,0 +1,44 @@
+.swiperSlide {
+  width: 250px;
+  height: 200px;
+  border-radius: 25px;
+  margin: 10px;
+  background-color: #e9f3ea;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px,
+    rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  /* overflow: hidden; */
+}
+
+.RecipeList__container {
+  width: 100%;
+  background-image: linear-gradient(
+    to bottom,
+    #e0c097,
+    #d8cba1,
+    #d2d5af,
+    #cedec0,
+    #cee5d0
+  );
+  position: absolute;
+  top: 0;
+  height: 25vh;
+  border-radius: 0 0 40px 40px;
+  overflow: hidden;
+}
+
+.RecipeList__header {
+  /* position: absolute; */
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 3em;
+  font-weight: 800;
+  text-shadow: 2px 2px #e0c097;
+  font-family: "Pacifico", cursive;
+  margin: 0;
+  /* top: 10px; */
+}
+
+.RecipeList__swiperContainer {
+  margin-top: 80px;
+}
